@@ -9,7 +9,7 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.fran.springboot.backend.mvc</groupId>
+	<groupId>com.manu.sports</groupId>
 	<artifactId>EOI-Mvc</artifactId>
 	<version>1.0</version>
 	<name>EOI-Mvc</name>
